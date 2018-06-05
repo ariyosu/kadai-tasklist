@@ -19,7 +19,8 @@
       </div>
 
         {!! Form::submit('更新', ['class' => 'btn btn-default']) !!}
-  </div>
+  
     {!! Form::close() !!}
-
+   </div>
+</div>
 @endsection
